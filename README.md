@@ -13,5 +13,5 @@ Feature Engineering to predict Sepsis from patient data
 Use a Neural Network to predict the functionality of a new aminoacid
 
 ## Task 4
-Given 3 (A,B and C) of food, predict if food A tastes more similar to food B or C.
+Given 3 pictures of food (A,B and C), predict if food A tastes more similar to food B or C.
 
