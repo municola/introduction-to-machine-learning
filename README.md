@@ -1,10 +1,10 @@
-# Introduction to Machine Learning
+# Introduction to Machine Learning (2020)
 This respository contains:
 - Personal Summary of the whole course
 - Code for the projects
 
 ## Task 1
-Non-linear features for regression
+Creating non-linear features for a regression task
 
 ## Task 2
 Feature Engineering to predict Sepsis from patient data
