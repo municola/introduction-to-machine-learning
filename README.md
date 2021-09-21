@@ -1,6 +1,6 @@
 # Introduction to Machine Learning (2020)
 This respository contains:
-- Personal Summary of the whole course
+- Personal Summary of the whole course [[PDF](https://github.com/municola/introduction-to-machine-learning/blob/master/IML.pdf)]
 - Code for the projects
 
 ## Task 1
